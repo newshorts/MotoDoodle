@@ -1,0 +1,7 @@
+# Ignore everything
+/color/include/Resources.h
+/color/xcode/build
+*.plist
+*.xcodeproj
+*.pch
+*.DS_Store
